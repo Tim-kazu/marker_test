@@ -8,7 +8,7 @@ You can refer to this repository to use library for AR project.
 
 ## Demo
 Please access by your mobile.
- [Demo URL](https://tim-kazu.github.io/markerless_test)
+ [Demo URL](https://tim-kazu.github.io/marker_test)
 
 ## Requirement
 If you use 3D object files in img folder, please be careful of copy right.
